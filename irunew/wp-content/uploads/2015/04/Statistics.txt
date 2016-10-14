@@ -1,0 +1,32 @@
+Page Title:	Statistics
+Navigation:	Statistics on homepage
+Page Layout:	2/3 Column Right
+Page Content:	IRU Statistics
+
+Statistics
+	Students
+	Staff
+	Research
+	Australian Rankings
+	Malaysian Rankings
+                        
+					DEVELOPER NOTES: ICON CAPABILITY FOR EACH BOX
+				
+				        Statistic Publications
+	
+	                                Students                                                                                           Staff
+	                                The Statistics: Students, Research, Staff 
+	                                Downloadable IRU Statistics on Student Data,
+                                        Research Data and Staff Data. Published in March 2014.
+	                                http://www.iru.edu.au/media/49898/iru%20statistics%20book%20-%20content%20-%20march%202014.pdf
+	                                   DOWNLOAD PDF (238K)
+	
+	
+                                        Research                                                                                           Australia Rankings
+							                                                                                   Australia University Rankings ARWU, the and
+																           QS 2014/2015
+							                                                                                   http://www.iru.edu.au/media/54485/rankings%20-%20all%20australian%20universities.pdf
+							                                                                                     DOWNLOAD PDF (210K)
+							 
+				        Malaysian Rankings
+					http://www.iru.edu.au/media/51714/iru%20malaysia%20rankings%20comparison%20-%20september%202014.pdf
